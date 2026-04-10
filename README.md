@@ -2,7 +2,7 @@
 
 Selamat datang di proyek **AI Voice & Gesture Controller**! Proyek ini adalah sebuah sistem perkenalan diri interaktif berbasis *Computer Vision* dan *Artificial Intelligence*. Layaknya JARVIS, sistem ini dapat membaca gestur tangan manusia secara *real-time* melalui kamera dan meresponsnya dengan suara (*Text-to-Speech*).
 
-Proyek ini dibuat oleh **Sofyan Ibnu Ghazali** dari **Fakultas Teknik Informatika, Universitas Islam Madura**. OYEEE! 🤘
+Proyek ini dibuat oleh **Sofyan Ibnu Ghazali** dari **Fakultas Teknik Informatika, Universitas Islam Madura**. 
 
 ---
 
